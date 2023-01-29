@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582542888 source:c:\users\asus\desktop\test\skenario 2\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,8 @@
+
+10000	Malam	dipinjam
+10001	Pagi	available
+10003	Apayoo	available
+10002	Nahsi	available
+10004	dair	available
+10005	NAsjra	available
+10006	Pesona	available
